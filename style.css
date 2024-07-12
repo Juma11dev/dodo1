@@ -157,7 +157,7 @@ border-radius: 30px;
 }
 .X {
     position: absolute;
-    background: red;
+    background: #00000095;
     top: 50%;
     transform: translateY(-50%);
     left: -40px;
