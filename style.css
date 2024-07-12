@@ -166,3 +166,11 @@ border-radius: 30px;
     cursor: pointer;
     color: #fff;
 }
+
+@media (max-width: 600px) {
+    .list {
+        flex-direction: column;
+        column-gap: 50px;
+        align-items: center;
+    }
+}

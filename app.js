@@ -79,8 +79,8 @@ const overlay = document.querySelector('.overlay')
     overlay.style.display = 'block'
 
   })
-  x.addEventListener('click', () => {
-    cart_list.style.display = 'none'
-    overlay.style.display = 'none'
+//   x.addEventListener('click', () => {
+//     cart_list.style.display = 'none'
+//     overlay.style.display = 'none'
     
-  })
+//   })
